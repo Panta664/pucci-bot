@@ -1,1 +1,1 @@
-worker java run.bat
+worker run.bat
